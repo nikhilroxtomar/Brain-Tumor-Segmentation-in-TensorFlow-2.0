@@ -10,9 +10,8 @@ Models to be used in future:
 - more...
 
 # Dataset
-Updated soon.
+[Brain Tumor Segmentation] (https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
 
-The Montgomery dataset is used for this for training the UNET architecture. The dataset contains the 138 pairs of images and masks. All of these images are of different shapes and contains a variety of skin lesions.
 
 Original Image             |  Ground Truth          
 :-------------------------:|:-------------------------:
