@@ -10,7 +10,7 @@ Models to be used in future:
 - more...
 
 # Dataset
-[Brain Tumor Segmentation] (https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
+Download the dataset: [Brain Tumor Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
 
 
 Original Image             |  Ground Truth          
